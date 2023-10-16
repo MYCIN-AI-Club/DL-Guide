@@ -1,4 +1,4 @@
-# Driver Drowsiness Detectio
+# Driver Drowsiness Detection
 
 This is my last project as part of my data science internship at CodeClause.
 <br>Dataset : https://www.kaggle.com/datasets/ismailnasri20/driver-drowsiness-dataset-ddd
